@@ -1,0 +1,7 @@
+C:\Users\azat\source\repos\StudentApart\StudentApart\bin\Debug\StudentApart.exe.config
+C:\Users\azat\source\repos\StudentApart\StudentApart\bin\Debug\StudentApart.exe
+C:\Users\azat\source\repos\StudentApart\StudentApart\bin\Debug\StudentApart.pdb
+C:\Users\azat\source\repos\StudentApart\StudentApart\obj\Debug\StudentApart.csprojAssemblyReference.cache
+C:\Users\azat\source\repos\StudentApart\StudentApart\obj\Debug\StudentApart.csproj.CoreCompileInputs.cache
+C:\Users\azat\source\repos\StudentApart\StudentApart\obj\Debug\StudentApart.exe
+C:\Users\azat\source\repos\StudentApart\StudentApart\obj\Debug\StudentApart.pdb

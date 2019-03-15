@@ -1,0 +1,7 @@
+C:\Users\azat\source\repos\HomeWorkStructEnum\HomeWorkStructEnum\bin\Debug\HomeWorkStructEnum.exe.config
+C:\Users\azat\source\repos\HomeWorkStructEnum\HomeWorkStructEnum\bin\Debug\HomeWorkStructEnum.exe
+C:\Users\azat\source\repos\HomeWorkStructEnum\HomeWorkStructEnum\bin\Debug\HomeWorkStructEnum.pdb
+C:\Users\azat\source\repos\HomeWorkStructEnum\HomeWorkStructEnum\obj\Debug\HomeWorkStructEnum.csprojAssemblyReference.cache
+C:\Users\azat\source\repos\HomeWorkStructEnum\HomeWorkStructEnum\obj\Debug\HomeWorkStructEnum.csproj.CoreCompileInputs.cache
+C:\Users\azat\source\repos\HomeWorkStructEnum\HomeWorkStructEnum\obj\Debug\HomeWorkStructEnum.exe
+C:\Users\azat\source\repos\HomeWorkStructEnum\HomeWorkStructEnum\obj\Debug\HomeWorkStructEnum.pdb
